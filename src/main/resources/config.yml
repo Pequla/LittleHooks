@@ -1,0 +1,6 @@
+webhook-url: url
+color:
+  system: 65535
+  join: 65280
+  leave: 16711680
+  death: 8388736

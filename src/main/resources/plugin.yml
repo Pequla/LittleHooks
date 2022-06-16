@@ -1,0 +1,9 @@
+name: LittleHooks
+version: '${project.version}'
+main: com.pequla.link.LittleHooks
+api-version: 1.19
+load: STARTUP
+depend: [ LittleLink ]
+authors: [ Pequla ]
+description: Discord webhook integration for your minecraft server
+website: https://pequla.com
