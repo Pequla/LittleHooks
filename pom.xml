@@ -6,7 +6,7 @@
 
     <groupId>com.pequla</groupId>
     <artifactId>little-hooks</artifactId>
-    <version>1.2</version>
+    <version>1.3</version>
     <packaging>jar</packaging>
 
     <name>LittleHooks</name>
@@ -79,13 +79,13 @@
         <dependency>
             <groupId>com.pequla</groupId>
             <artifactId>little-link</artifactId>
-            <version>1.7</version>
+            <version>1.9</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.24</version>
+            <version>1.18.30</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
